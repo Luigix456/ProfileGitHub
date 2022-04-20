@@ -1,4 +1,4 @@
-<img align='left' src='https://github.com/bryanlolry/bryanlolry/blob/master/gifs/tech.gif' width='20%'/> 
+<img align='left' src='https://github.com/Luigix456/ProfileGitHub/blob/main/gifs/tech.gif?raw=true' width='20%'/> 
 
 <h1 align="left">BIO</h1>
 
@@ -64,9 +64,9 @@ My name is Luis Ditieri, I'm 21 years old, I live in Argentina and I'm a Full-St
 <h3 align='left'><i>Follow me on</i></h3>
 <p align="center">
 	<a href="https://www.instagram.com/luisditieri/" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/instagram.svg" width="60" height="95">
+	<img align="center" src="https://raw.githubusercontent.com/Luigix456/ProfileGitHub/d3282add5cc98ac6706147fdcf8569430c0949a1/img/instagram.svg" width="60" height="95">
 	</a>
 	<a href="https://www.linkedin.com/in/luis-ignacio-ditieri-597a0a215/" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/linkedin.svg" width="60" height="95">
+	<img align="center" src="https://raw.githubusercontent.com/Luigix456/ProfileGitHub/d3282add5cc98ac6706147fdcf8569430c0949a1/img/linkedin.svg" width="60" height="95">
 	</a>
 </p>
