@@ -49,15 +49,21 @@ My name is Luis Ditieri, I'm 21 years old, I live in Argentina and I'm a Full-St
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="60">
     </td>
 </tr>
+	
+<tr>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="60">
+    </td>
+	<td align='center'>
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="60">
+</tr>
 
-<!--<tr>
-    <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="60">
-    </td>
-<td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60">
-    </td>
-</tr>-->
 </table>
 
 
