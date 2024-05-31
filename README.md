@@ -19,23 +19,17 @@ My name is Luis Ditieri, I'm 21 years old, I live in Argentina and I'm a Full-St
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
-   <td align='center' width="190">
+    <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60">
     </td>
     <td align='center' width="190" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
-     <td align='center' width="190">
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
-    </td>
-    <td align='center' width="190">
-       <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="60">
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/sass.svg" width="60">
-    </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
@@ -48,20 +42,6 @@ My name is Luis Ditieri, I'm 21 years old, I live in Argentina and I'm a Full-St
 	<td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="60">
     </td>
-</tr>
-	
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="60">
-    </td>
-	<td align='center'>
-        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="60">
 </tr>
 
 </table>
