@@ -9,9 +9,6 @@ My name is Luis Ditieri, I live in Argentina and I'm a Developer ❤️.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
 
-</table>
-
-
 <h3 align='left'><i>Follow me on</i></h3>
 <p align="center">
 	<a href="https://www.instagram.com/luisditieri/" target="_blank">
